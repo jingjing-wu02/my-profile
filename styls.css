@@ -1,0 +1,82 @@
+body{
+	background-color: #FFDADF;
+	font-family: Helvetica;
+	font-size: 17px;
+	font-weight: lighter;
+}
+h1,h2,h3{
+	font-family:  "Playwrite IN", serif;
+	font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+h1{
+	font-size: 40px;
+	color: #5D5233;
+}
+a{
+ text-decoration: none;
+ color:  black;
+ font-weight: bold;
+}
+a:hover{
+	color: #FFDADF;
+}
+h2{
+	color: #5D5233;
+    font-size: 32px;
+}
+h3{
+	color: #5D5233;
+    font-size: 32px;
+}
+
+h4{
+	color: #5D5233;
+    font-size: 32px;
+}
+
+
+/*Custom design with class*/
+.card-white{
+	background-color: white;
+	padding: 40px;
+	box-shadow: ;
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+
+.btn-blue{
+	background-color: #FFDADF;
+	color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-blue:hover{
+	background-color: black;
+	color: white;
+}
+
+.list-inline li{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline i{
+	font-size: 50px;
+	color: rgb(230, 230, 230);
+
+}
+
+.list-inline i:hover{
+	font-size: 50px;
+	color: #FFDADF;
+}
+
